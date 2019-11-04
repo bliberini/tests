@@ -3,3 +3,6 @@ node_modules/
 aws.config.json
 */file_*
 .vscode/
+.idea/
+target/
+*.iml
