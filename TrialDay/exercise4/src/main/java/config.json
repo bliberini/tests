@@ -1,0 +1,9 @@
+{
+  "bitmovinKey": "",
+  "s3AccessKey": "",
+  "s3SecretKey": "",
+  "s3BucketName": "",
+  "s3Region": "",
+  "sourceHostUrl": "",
+  "sourcePathUrl": ""
+}
